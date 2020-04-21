@@ -56,4 +56,4 @@ Exemple d'intégration de bout de code en utilisant Markdown :
 - Ut enim ad minim veniam
 - Quis nostrud exercitation ullamco laboris nisi ut aliquip
 
-Si vous appréciez mon travail et que vous souhaitez me supporter, vous pouvez effectuer une donation récurente ou unique sur ma page PayPal.me : https://www.paypal.me/klash2b
+Si vous appréciez mon travail et que vous souhaitez me supporter, vous pouvez effectuer une donation récurrente ou unique sur ma page PayPal.me : https://www.paypal.me/klash2b
