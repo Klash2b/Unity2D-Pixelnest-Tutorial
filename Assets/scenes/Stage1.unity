@@ -258,6 +258,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 89673310}
+  - component: {fileID: 89673311}
   m_Layer: 0
   m_Name: Scripts
   m_TagString: Untagged
@@ -279,6 +280,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &89673311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89673309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da3fac4f915f92143be6d81643c439db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  smokeEffect: {fileID: 5671969236397461400, guid: 2f6d46839ebff624ca5ea35a7284922e,
+    type: 3}
+  fireEffect: {fileID: 4380930519516120417, guid: 8a5a67aba4b72194eb9a66802c13b7eb,
+    type: 3}
 --- !u!4 &256275777 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4665292369538515025, guid: b52fe2fec8bc8ab48b47e9311831242d,
