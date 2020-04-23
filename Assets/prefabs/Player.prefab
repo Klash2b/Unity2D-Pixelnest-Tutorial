@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1721615404}
   - component: {fileID: 954250280202838835}
   - component: {fileID: 2718537481229875753}
+  - component: {fileID: 1721615410}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -160,7 +161,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shotPrefab: {fileID: 3241948339236831365, guid: a662ba3b38036344ba3bac5fcfcbb419,
     type: 3}
-  shootingRate: 0.25
+  shootingRate: 0.5
 --- !u!114 &2718537481229875753
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -175,3 +176,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hp: 5
   isEnemy: 0
+--- !u!114 &1721615410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1447942250176449507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fec01a8dbd312d42b08fdbea5c9da66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: {x: 1, y: 1}
+  direction: {x: 1, y: 0}
+  isLinkedToCamera: 1
+  isLooping: 0
