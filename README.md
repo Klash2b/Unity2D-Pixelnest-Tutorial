@@ -46,14 +46,3 @@ Exemple d'intégration de bout de code en utilisant Markdown :
 
 </manifest>
 ```
-
-## Infos
-
-► Si vous faites appel à ce répertoire GitHub pensez à me créditer dans votre jeu/programme. Ce n'est pas obligatoire mais c'est fortement apprécié.
-
-► Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt :
-- Ut labore et dolore magna aliqua
-- Ut enim ad minim veniam
-- Quis nostrud exercitation ullamco laboris nisi ut aliquip
-
-Si vous appréciez mon travail et que vous souhaitez me supporter, vous pouvez effectuer une donation récurrente ou unique sur ma page PayPal.me : https://www.paypal.me/klash2b
